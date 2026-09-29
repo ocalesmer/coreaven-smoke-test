@@ -1,0 +1,2 @@
+# coreaven-smoke-test
+test
