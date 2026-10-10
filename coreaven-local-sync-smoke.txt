@@ -1,1 +1,1 @@
-﻿local source sync smoke v3 içeriği yazılsın ayni dosyaya
+local source sync smoke v3
