@@ -1,1 +1,1 @@
-local source sync smoke v1
+﻿local source sync smoke v2
